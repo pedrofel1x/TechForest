@@ -4,3 +4,7 @@
 #section2{
     background-color: #525252;
 }
+
+tr{
+    border-bottom: 3px solid black;
+}
